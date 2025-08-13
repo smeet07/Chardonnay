@@ -21,7 +21,7 @@ This repository provides a minimal implementation of the core ideas from the OSD
 To run a simple demonstration of the Chardonnay MVP:
 
 ```bash
-python3 chardonnay_mvp_multipaxos.py
+python3 chardonnay.py
 ```
 ## Notes
 This project is intended for educational and experimentation purposes. It omits many optimisations and features of a production system (e.g. persistent storage, asynchronous networking and failover). See the paper for the full design details and performance evaluations.
